@@ -3,7 +3,7 @@
 
 AUTHOR = '真🐟'
 SITENAME = '廢文記錄生活'
-SITEURL = 'https://github.com/CYFish/CYFish.github.io'
+SITEURL = 'localhost'
 
 PATH = 'content'
 
