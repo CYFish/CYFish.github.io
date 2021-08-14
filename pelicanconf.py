@@ -3,7 +3,7 @@
 
 AUTHOR = '真🐟'
 SITENAME = '廢文記錄生活'
-SITEURL = 'localhost'
+SITEURL = ''
 
 PATH = 'content'
 
@@ -22,11 +22,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Themes
-THEME = 'theme/pelican-themes/bulrush'
+THEME = 'theme/pelican-themes/pelican-clean-blog'#'simple'#'notmyidea'
+STATIC_PATHS = ['images']
 
 # URL settings
-ARTICLE_URL = PAGE_URL = 'posts/{slug}/'
-ARTICLE_SAVE_AS = PAGE_SAVE_AS = 'posts/{category}/{date:%Y}/{date:%m}/{slug}/index.html'
+ARTICLE_URL = 'posts/{category}/{date:%Y}/{slug}/'
+ARTICLE_SAVE_AS = 'posts/{category}/{date:%Y}/{slug}/index.html'
 
 # # Blogroll
 # LINKS = (('Pelican', 'https://getpelican.com/'),

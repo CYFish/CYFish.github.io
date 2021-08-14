@@ -24,6 +24,9 @@ CONFIG = {
     'settings_publish': 'publishconf.py',
     # Output path. Can be absolute or relative to tasks.py. Default: 'output'
     'deploy_path': SETTINGS['OUTPUT_PATH'],
+    # Github Pages configuration
+    "github_pages_branch": "master",
+    "commit_message": "\"Publish site on {}\"".format(datetime.date.today().isoformat()),
     # Host and port for `serve`
     'host': 'localhost',
     'port': 8000,
@@ -119,6 +122,14 @@ def publish(c):
         '{} {ssh_user}@{ssh_host}:{ssh_path}'.format(
             CONFIG['deploy_path'].rstrip('/') + '/',
             **CONFIG))
+
+
+@task
+def github(c):
+    """Publish to GitHub Pages"""
+    preview(c)
+    print("ghp-import {deploy_path} -b {github_pages_branch} -m {commit_message} -p".format(**CONFIG))
+    c.run("ghp-import {deploy_path} -b {github_pages_branch} -m {commit_message} -p".format(**CONFIG))
 
 
 def pelican_run(cmd):
