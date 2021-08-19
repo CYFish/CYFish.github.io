@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = '真🐟'
+AUTHOR = '🐟'
 SITENAME = '廢文記錄生活'
 SITEURL = ''
 
@@ -13,6 +13,7 @@ DEFAULT_LANG = 'zh-tw'
 
 # Basic settings
 DELETE_OUTPUT_DIRECTORY = True
+STATIC_PATHS = ['images']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -22,8 +23,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Themes
-THEME = 'theme/pelican-themes/pelican-clean-blog'#'simple'#'notmyidea'
-STATIC_PATHS = ['images']
+THEME = 'theme/pelican-themes/pelican-clean-blog'
 
 # URL settings
 ARTICLE_URL = 'posts/{category}/{date:%Y}/{slug}/'
