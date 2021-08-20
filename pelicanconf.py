@@ -4,6 +4,8 @@
 AUTHOR = '🐟'
 SITENAME = '廢文記錄生活'
 SITEURL = ''
+FAVICON = 'images/favicon/fish-text.ico'
+HEADER_COVER = 'static/images/home-bg.jpg'
 
 PATH = 'content'
 
@@ -13,7 +15,7 @@ DEFAULT_LANG = 'zh-tw'
 
 # Basic settings
 DELETE_OUTPUT_DIRECTORY = True
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'static']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
