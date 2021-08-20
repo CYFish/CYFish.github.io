@@ -5,7 +5,7 @@ AUTHOR = '🐟'
 SITENAME = '廢文記錄生活'
 SITEURL = ''
 FAVICON = 'images/favicon/fish-text.ico'
-HEADER_COVER = 'static/images/home-bg.jpg'
+HEADER_COVER = 'static/images/home-bg-aping.jpg'
 
 PATH = 'content'
 
