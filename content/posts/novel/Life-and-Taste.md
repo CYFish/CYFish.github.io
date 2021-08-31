@@ -1,4 +1,4 @@
-Title: 生命與味覺
+Title: 《生命與味覺》──料理與人生道理其實是互通的！
 Date: 2021-07-15 23:00
 Category: Reading Reflections
 Tags: 飲食生活

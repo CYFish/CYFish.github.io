@@ -1,4 +1,4 @@
-Title: 行過地獄之路 
+Title: 《行過地獄之路》──作者總是能帶著你體會痛苦
 Date: 2018-11-18 23:00
 Category: Reading Reflections
 Tags: 翻譯文學
