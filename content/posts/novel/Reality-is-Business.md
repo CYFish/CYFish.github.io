@@ -6,7 +6,7 @@ Slug: reality-is-business
 
 <center>
 
-![真相製造](/images/novel/Reality-is-Business/cover-ereader.heic)
+![真相製造](/images/novel/Reality-is-Business/cover-ereader.jpg)
 
 ![真相製造](/images/novel/Reality-is-Business/cover.jpg)
 
