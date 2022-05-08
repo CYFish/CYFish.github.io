@@ -1,5 +1,5 @@
-Title: 《冬夜三部曲》──一段愛與成長的故事
-Date: 2022-05-07
+Title: 《冬夜三部曲》──當一個人需要別人和被別人需要的時候，才能真正感受到愛
+Date: 2022-05-08
 Category: Reading Reflections
 Tags: 奇幻小說
 Slug: winternight-trilogy
