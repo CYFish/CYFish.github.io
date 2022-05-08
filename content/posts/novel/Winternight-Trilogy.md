@@ -1,4 +1,4 @@
-Title: 《冬夜三部曲》──愛與成長的故事
+Title: 《冬夜三部曲》──一段愛與成長的故事
 Date: 2022-05-07
 Category: Reading Reflections
 Tags: 奇幻小說
