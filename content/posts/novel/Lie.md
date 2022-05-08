@@ -5,7 +5,7 @@ Tags: 文學小說
 Slug: lie
 
 <center>
-![](/images/novel/Lie/cover.JPG)
+![謊言](/images/novel/Lie/cover.JPG)
 </center>
 
 《謊言》是一部很沉重的小說，改編自韓國世越號沉船事件。
