@@ -5,7 +5,7 @@ Tags: 報導文學
 Slug: poisoner-in-chief
 
 <center>
-![](/images/novel/Poisoner-in-Chief/cover.jpg)
+![CIA 洗腦計畫](/images/novel/Poisoner-in-Chief/cover.jpg)
 </center>
 
 > 我是因為犯罪才坐牢的，但我覺得他們對我做的事比我犯的罪更惡劣。
