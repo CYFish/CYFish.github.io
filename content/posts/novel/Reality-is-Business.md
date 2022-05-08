@@ -6,9 +6,9 @@ Slug: reality-is-business
 
 <center>
 
-![](/images/novel/Reality-is-Business/cover-ereader.heic)
+![真相製造](/images/novel/Reality-is-Business/cover-ereader.heic)
 
-![](/images/novel/Reality-is-Business/cover.jpg)
+![真相製造](/images/novel/Reality-is-Business/cover.jpg)
 
 </center>
 
@@ -30,44 +30,44 @@ Slug: reality-is-business
 
 <center>
 
-![](/images/novel/Reality-is-Business/excerpt_01.jpg)
+![儘管媒體前輩、同輩、後輩，仍不斷提升臺灣報導的品質，以更好的作品喚醒社會對於媒體的珍視，但我想，用「掙扎求生」形容媒體工作者此刻的感受，大部分人是同意的。](/images/novel/Reality-is-Business/excerpt_01.jpg)
 
-![](/images/novel/Reality-is-Business/excerpt_02.jpg)
+![人要走上極端化，主要有兩大關鍵。首先是對於身處的社會感到失望，或認為自己不被認同，這可能包括種族歧視的經驗、被霸凌、家庭裡的爭執、缺乏教育或工作機會等。極端化的另一關鍵，便是人格特質中的積極性，包括對正義、榮譽感、自由、卓越的尋求，或想幫助貧窮、弱勢等，試圖讓社會變得更好的意念。每個走上極端化的人，其背後成因，都是由以上不同因素以不同比重組合而成。](/images/novel/Reality-is-Business/excerpt_02.jpg)
 
-![](/images/novel/Reality-is-Business/excerpt_03.jpg)
+![「即使只是一個人，我每救回一個年輕人，就像是救回我兒子的一部分。」她說她會向眼中看見的希望一路前進，她會一步一步把兒子救回來。](/images/novel/Reality-is-Business/excerpt_03.jpg)
 
-![](/images/novel/Reality-is-Business/excerpt_04.jpg)
+![報告裡特別提到，除了官方的主動出擊、提高各政黨的意識和資安能力，民間發起的行動更為重要。](/images/novel/Reality-is-Business/excerpt_04.jpg)
 
-![](/images/novel/Reality-is-Business/excerpt_05.jpg)
+![法國經驗告訴我們，最能對抗不實敘事的，恐怕不只是真假的證明，而是告訴選民這是「誰幹的」，如果能在事實查核之外，將大眾的注意力引導至謠言的製造者、傳遞者和來源，在法國的經驗中，這會成為削弱不實資訊影響的關錐，否則，若是落入真假之辯，謠言的影響力就會被擴大。](/images/novel/Reality-is-Business/excerpt_05.jpg)
 
-![](/images/novel/Reality-is-Business/excerpt_06.jpg)
+![他主辦這場活動的原因，就是「想要讓人們知道，這只是政治機器的一環，大家的帳號都是競選活動的一部分，這些網軍呢，他們私下其實都是朋友，觀眾只是被設計了要憎恨彼此而己」。](/images/novel/Reality-is-Business/excerpt_06.jpg)
 
-![](/images/novel/Reality-is-Business/excerpt_07.jpg)
+![記者有時報導事件，不是因為知道有人愛看，而是為了追求真相。相對來說，有時社會不願接受的一面，怎樣都要寫。](/images/novel/Reality-is-Business/excerpt_07.jpg)
 
-![](/images/novel/Reality-is-Business/excerpt_08.jpg)
+![事實上，德國的犯罪率並沒有因移民而提高，但近幾年，凡有犯罪事件，人們必先問凶手是哪個種族，然後將與移民相關的犯罪事件放大檢視。](/images/novel/Reality-is-Business/excerpt_08.jpg)
 
-![](/images/novel/Reality-is-Business/excerpt_09.jpg)
+![「我們的社會融合，不是從一堆文件開始，是從人跟人的認識和見面出發，」霍爾斯坦說。這樣的安排，不僅消除外來者的不安，也讓在地居民認識新來者，更重要的效果可能是解除在地社群對陌生人的恐懼。](/images/novel/Reality-is-Business/excerpt_09.jpg)
 
-![](/images/novel/Reality-is-Business/excerpt_10.jpg)
+![進行對話前，受試者是這麼形容政治意見與自己完全相反的人：「自私」、「愚笨」、「關於政治議題的知識不足」。但兩個小時的見面後，人們回頭看之前寫下的字句，有些人看見自己的偏見，有些人則對對方改觀。他們在問卷上填答，認為與自己意見相反的那一方沒這麼糟糕，受試者重新相信對話的可能，願意相信不同政治意識形態的人。](/images/novel/Reality-is-Business/excerpt_10.jpg)
 
-![](/images/novel/Reality-is-Business/excerpt_11.jpg)
+![現代戰爭專家辛格 (Peter W. Singer)，也發表專文指出，中國此次展開的輿情戰，是極權者慣用的手法：審查、轉移焦點、謊言。](/images/novel/Reality-is-Business/excerpt_11.jpg)
 
-![](/images/novel/Reality-is-Business/excerpt_12.jpg)
+![他以分裂的平行世界形容經歷反修例運動、《國安法》頒布後的香港。「黃絲、藍絲非常的分裂，彼此是平行世界，有時候奇怪到不知道他們是網軍，還是他們真心相信那些不實資訊，」K 說，支持港警、支持反送中運動的香港民眾，各自擁有自己的資訊圈，做為事實查核者的他，發現事實的認定愈來愈難，人們只相信自身陣營的資訊來源。](/images/novel/Reality-is-Business/excerpt_12.jpg)
 
-![](/images/novel/Reality-is-Business/excerpt_13.jpg)
+![一座島上的人們，也就這樣活成了 N 個臺灣，彼此間因資訊操縱的規模化、專業化，相距愈來愈遠，事實不但被聲量淹沒，也愈來愈難在不同社群間建立對公共議題的共同認知。](/images/novel/Reality-is-Business/excerpt_13.jpg)
 
-![](/images/novel/Reality-is-Business/excerpt_14.jpg)
+![內容農場模式的資訊管道有可能被極權國家利用，若它們以其國力、財力大量生產或影響內容，就能明顯改變網路上不同立場的輿論聲量，並對民主社會帶來挑戰。](/images/novel/Reality-is-Business/excerpt_14.jpg)
 
-![](/images/novel/Reality-is-Business/excerpt_15.jpg)
+![二〇二一年開始，中國政府更直接籌辦網紅、電商直播主培訓活動，積極扶植臺籍「網路工作者」，希望培養網路意見領袖去影響甚至主導臺灣網路輿論場域。](/images/novel/Reality-is-Business/excerpt_15.jpg)
 
-![](/images/novel/Reality-is-Business/excerpt_16.jpg)
+![所謂假新聞的亂象，正是因為大家都覺得自己是正義的一方，是在分享真正的真相。](/images/novel/Reality-is-Business/excerpt_16.jpg)
 
-![](/images/novel/Reality-is-Business/excerpt_17.jpg)
+![記者的工作，是透過採訪、調查、研究，想方設法靠近真實，以報導讓自身所見傳達給閱聽人。在真相製造的時代，我們的工作變得愈來愈挑戰。](/images/novel/Reality-is-Business/excerpt_17.jpg)
 
-![](/images/novel/Reality-is-Business/excerpt_18.jpg)
+![最難的一關，還是面對臺灣閱聽人得到的回饋，當我以第一手資料、採訪，多方查證後刊出報導，我的報遵卻必須面對閱聽人心中的不同「濾鏡」，他們針對我所屬的媒體、我過去寫的文章、社群網路上其他分享者的政治傾向，以判斷報導的真假。](/images/novel/Reality-is-Business/excerpt_18.jpg)
 
-![](/images/novel/Reality-is-Business/excerpt_19.jpg)
+![我們要接受並給予自己及他人犯錯的空間知道資訊操縱跟造假的技術每天都在進化，每個人都有脆弱和判斷失準的時刻，有了這樣的認知，或許，我們就有機會看見不實資訊背後，個人、人際和這個社會真正遇上的挑戰。](/images/novel/Reality-is-Business/excerpt_19.jpg)
 
-![](/images/novel/Reality-is-Business/excerpt_20.jpg)
+![假新聞讓我看見媒體轉型的挑戰跟必要，而我試著想像「該怎麼辦」（如同正在讀這本書的你一樣）。假新聞也像是「另類的嚮導」，帶我理解不同社會裡的裂痕與脆弱。](/images/novel/Reality-is-Business/excerpt_20.jpg)
 
 </center>
