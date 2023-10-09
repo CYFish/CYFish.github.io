@@ -150,3 +150,6 @@ output
 
 # Desktop Services Store
 .DS_Store
+
+# Virtual Environment
+gitpage-env/
